@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+pillow
+wikipedia
+requests
+spacy
+geopy
+numpy==1.26.4
